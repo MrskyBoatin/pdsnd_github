@@ -1,17 +1,34 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Created by Samuel Yeboah Boateng
+
+This repository contains bikeshare project which is as part assignments for Udacity Programming For Data Science Using Python Nanodegree.
+
 
 ### Date created
-Include the date you created this project and README file.
+January 2022.
 
-### Project Title
-Replace the Project Title
+## Project Overview
 
-### Description
-Describe what your project is about and what it does
+This project contains python srcipts for a bike sharing app.The code makes use of python to explore data related to bike share app for  cities in the United States. The code would be refactored using Git. 
 
-### Files used
-Include the files used
+
+### Software Requirements
+
+The required softwares for running the script
+
+*python 3
+*Sublime text ( or any text editor of your choice)
+*pandas
+*numpy
+
+
+#### Files Used
+
+The required files for running the script: 
+
+* new_york_city.csv
+* chicago.csv
+* washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+* [Git documentation is very usefull.](https://git-scm.com/doc)
