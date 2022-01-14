@@ -15,10 +15,10 @@ This project contains python srcipts for a bike sharing app.The code makes use o
 
 The required softwares for running the script
 
-*python 3
-*Sublime text ( or any text editor of your choice)
-*pandas
-*numpy
+* python 3
+* Sublime text ( or any text editor of your choice)
+* pandas
+* numpy
 
 
 #### Files Used
