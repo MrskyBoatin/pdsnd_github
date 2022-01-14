@@ -293,7 +293,15 @@ def user_stats(df, city):
 
 
 def raw_data(df, mark_place):
-    """Display 5 line of sorted raw data each time."""
+    """Display 5 line of sorted raw data each time.
+            Args:
+            df - Pandas DataFrame 
+            mark_place 
+        Returns:
+            None
+        Print statement
+    """
+
 
     print("\nViewing raw data.")
 
