@@ -45,9 +45,9 @@ def responds(prompt, expected_answer):
 def column_filter():
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
     Returns:
-        (str) city -name of the city(ies) to analyze
-        (str) month -name of the month(s) to filter
-        (str) day -name of the day(s) of week to filter
+        (str) city -name of the city/cities to analyze
+        (str) month -name of the month/months to filter
+        (str) day -name of the day/days of week to filter
     """
 
     print("\n\nLet's explore some US bikeshare data!\n")
