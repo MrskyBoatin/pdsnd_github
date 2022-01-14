@@ -31,4 +31,4 @@ The required files for running the script:
 
 ### Credits
 
-* [Git documentation is very usefull.](https://git-scm.com/doc)
+* [Git documentation.](https://git-scm.com/doc)
