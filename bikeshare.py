@@ -142,6 +142,7 @@ def timings(df):
             df - Pandas DataFrame 
         Returns:
             None
+        Print's statement
     """
 
     print('\nDisplaying the statistics on the most frequent times of '
@@ -175,6 +176,7 @@ def station_stats(df):
             df - Pandas DataFrame 
         Returns:
             None
+        Print statement
     """
 
     print('\nCalculating The Most Popular Stations and Trip according to your responds...\n')
@@ -211,6 +213,7 @@ def trip_duration_stats(df):
             df - Pandas DataFrame 
         Returns:
             None
+        Print statement
     """
 
     print('\nCalculating Trip Duration according to your responds...\n')
@@ -248,6 +251,7 @@ def user_stats(df, city):
             df - Pandas DataFrame 
         Returns:
             None
+        Print statement
     """
 
     print('\nCalculating User Stats according to your responds...\n')
